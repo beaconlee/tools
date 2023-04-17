@@ -19,3 +19,7 @@ put_dst_filename = config['put_destination']['filename']
 
 upload_src_path = config['upload']['upload_src_path']
 upload_dst_path = config['upload']['upload_dst_path']
+
+
+python = config['python']['python']
+python_code = config['python']['python_code']

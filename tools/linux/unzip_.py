@@ -11,7 +11,7 @@ import zipfile
 
 def run_unzip():
 
-  directory = ini_.unzip_path
+  directory = ini_.local_path
   filename = ini_.unzip_filename
 
   unzip = directory + '/' + filename
